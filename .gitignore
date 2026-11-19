@@ -1,0 +1,19 @@
+# Local upstream checkouts, compilers and build products
+/dist/
+/ProKrita.zip
+/android/*.log
+/android/device-validation.json
+/android/tests/*.pdb
+/android/krita/
+/android/krita-deps-management/
+/android/work/
+/android/device-backup/
+/android/build-host-install.log
+/android/build-host-install-status.txt
+/tools/zig*
+/tools/python/
+/tools/python.zip
+/android/tests/*.exe
+/android/tests/*-arm64
+__pycache__/
+*.pyc

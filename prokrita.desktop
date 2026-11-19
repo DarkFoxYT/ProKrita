@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=prokrita
+X-Python-2-Compatible=false
+Name=ProKrita
+Comment=Draw and edit shapes, fill regions, shade on clipped layers, and smudge with a quick return to your brush
